@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
-<h3 align="center">A software engineer from Brazil</h3>
+<h3 align="center">A software developer from Brazil</h3>
+<h4 align="center">A beginner in the world of Java Backend programming</h4>
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/edu-mtt/)](https://github.com/edu-mtt/edu-mtt/) 
