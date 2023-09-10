@@ -1,34 +1,36 @@
-<h1 align="center">Hi 👋, I'm Johnny</h1>
-<h3 align="center">A software engineer from Colombia</h3>
+<h1 align="center">Hi 👋, I'm Eduardo</h1>
+<h3 align="center">A software engineer from Brazil</h3>
 
 ## 💬 Ask me about
-- Backend web development (Python, Node.js, PHP)
-- Frontend web development (Vue.js)
-- Docker
-- Deep Learning and Machine Learning
-- Cloud Architecture
-- Design Patterns
-- Gardening (Bonsai enthusiast :evergreen_tree:)
+- Backend web development (Java, Spring, Maven, JUnit)
+- SQL and noSQL
+- OOP
 
 ## 📅 Hobbies
-- Solve programming problems at Codeforces, UVa, LeetCode
-- Watch anime and TV shows
-- Read some manga
-- Play videogames
+- Im learning programming on Java
+- Watch race cars, drift and WRC
+- Read some article about firearms, personal defense, BJJ, Gym
+- Play videogames (BF, COD, GTA, Destiny)
+- YouTube lover
+- I like workout and Rock
 - etc...
 
 ## 💻 Current project
-- [financial-go](https://github.com/Jvillegasd/financial-go)
+- [... L O A D I N G ...]
 
 ## 📚 Learning
-- Platzi courses about Backend development Roadmap
-- React.js with my Gf 👩‍❤️‍👨
+- DIO courses about Backend development Roadmap
 
 ## 🎵 Spotify status
 
-<a href="https://jvillegasd-spotify.vercel.app/api/song/?opened">
-  <img src="https://jvillegasd-spotify.vercel.app/api/song" width="341" height="571" alt="Now Playing">
-</a>
+- Slipknot
+- ACDC
+- ABCD
+- Guns nRoses
+- SOD
+- Paparoach
+- Iron Maiden
+- etc...
 
 <!-- <div id = "some_issues">
   <p>It is a little list of problems you can face while implementing this kind of stuff</p>
