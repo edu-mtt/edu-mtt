@@ -11,6 +11,9 @@
 - SQL and noSQL
 - OOP
 
+## 📅 Job
+- Im work actually at NTTDATA as IT Field Tech Analyst
+
 ## 📅 Hobbies
 - Im learning programming on Java
 - Watch race cars, drift and WRC
@@ -26,7 +29,7 @@
 ## 📚 Learning
 - DIO courses about Backend development Roadmap
 
-## 🎵 Spotify status
+## 🎵 Spotify
 
 - Slipknot
 - ACDC
